@@ -1,5 +1,5 @@
 # VS ALAN
-this is dave
+this is alan
 
 <img src="https://imgur.com/8bTDqsq" width="768" height="768">
 
